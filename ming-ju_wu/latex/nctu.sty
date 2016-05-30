@@ -1,0 +1,316 @@
+% author: Tz-Huan Huang [http://www.csie.ntu.edu.tw/~tzhuan]
+
+% ----------------------------------------------------------------------------
+% "THE CHOCOLATE-WARE LICENSE":
+% Tz-Huan Huang wrote this file. As long as you retain this notice you
+% can do whatever you want with this stuff. If we meet some day, and you think
+% this stuff is worth it, you can buy me a chocolate in return Tz-Huan Huang
+% ----------------------------------------------------------------------------
+
+%Revised by Tzu-Han Chang
+
+\RequirePackage{array}
+\RequirePackage{graphicx}
+\RequirePackage[top=2.5cm,left=2.5cm,bottom=2.5cm,right=2.5cm]{geometry}
+
+\RequirePackage{fontspec}
+
+\defaultfontfeatures{Mapping=tex-text}
+\RequirePackage[AutoFakeBold,AutoFakeSlant]{xeCJK}
+\RequirePackage{CJKfntef}
+%\setmainfont{Square721 BT} % 設定這個用來產生燙金用的封面
+%\setromanfont{Times New Roman} % Default roman font
+\setCJKmainfont{微軟正黑體} % Default CJK
+%\setCJKfamilyfont{kaiv}[Vertical=RotatedGlyphs]{新細明體}
+%\setCJKfamilyfont{kaiv}{BiauKai:script=hani:language=ZHT:vertical:+vert}
+\setmonofont{Courier New} % 等寬字型
+
+%\XeTeXlinebreaklocale "zh" % 設定這個選項會造成"I/O"可能會被斷行.
+\XeTeXlinebreakskip = 0pt plus 1pt 
+
+\newcommand\universityCH[1]{\newcommand{\theuniversityCH}{#1}}
+\newcommand\collegeCH[1]{\newcommand{\thecollegeCH}{#1}}
+\newcommand\instituteCH[1]{\newcommand{\theinstituteCH}{#1}}
+\newcommand\degreeCH[1]{\newcommand{\thedegreeCH}{#1}}
+\newcommand\degreeEN[1]{\newcommand{\thedegreeEN}{#1}}
+\newcommand\thesisCH[1]{\newcommand{\thethesisCH}{#1}}
+\newcommand\thesisNO[1]{\newcommand{\thethesisNO}{#1}}
+\newcommand\instituteEN[1]{\newcommand{\theinstituteEN}{#1}}
+\newcommand\collegeEN[1]{\newcommand{\thecollegeEN}{#1}}
+\newcommand\universityEN[1]{\newcommand{\theuniversityEN}{#1}}
+\newcommand\thesisEN[1]{\newcommand{\thethesisEN}{#1}}
+\newcommand\titleCH[1]{\newcommand{\thetitleCH}{#1}}
+\newcommand\titleEN[1]{\newcommand{\thetitleEN}{#1}}
+\newcommand\authorCH[1]{\newcommand{\theauthorCH}{#1}}
+\newcommand\authorEN[1]{\newcommand{\theauthorEN}{#1}}
+\newcommand\advisorCH[1]{\newcommand{\theadvisorCH}{#1}}
+\newcommand\advisorEN[1]{\newcommand{\theadvisorEN}{#1}}
+\newcommand\advisortitleCH[1]{\newcommand{\theadvisortitleCH}{#1}}
+\newcommand\advisortitleEN[1]{\newcommand{\theadvisortitleEN}{#1}}
+\newcommand\yearCH[1]{\newcommand{\theyearCH}{#1}}
+\newcommand\yearEN[1]{\newcommand{\theyearEN}{#1}}
+\newcommand\monthCH[1]{\newcommand{\themonthCH}{#1}}
+\newcommand\monthEN[1]{\newcommand{\themonthEN}{#1}}
+\newcommand\dateCH[1]{\newcommand{\thedateCH}{#1}}
+\newcommand\datetitleCH[1]{\newcommand{\thedatetitleCH}{#1}}
+\newcommand\yeartitleCH[1]{\newcommand{\theyeartitleCH}{#1}}
+\newcommand\monthtitleCH[1]{\newcommand{\themonthtitleCH}{#1}}
+\newcommand\writtenCH[1]{\newcommand{\thewrittenCH}{#1}}
+\newcommand\abstractnameEN[1]{\newcommand{\theabstractnameEN}{#1}}
+\newcommand\abstractnameCH[1]{\newcommand{\theabstractnameCH}{#1}}
+\newcommand\studentID[1]{\newcommand{\thestudentID}{#1}}
+\newcommand\acknowledgementsnameEN[1]{\newcommand{\theacknowledgementsnameEN}{#1}}
+\newcommand\acknowledgementsnameCH[1]{\newcommand{\theacknowledgementsnameCH}{#1}}
+
+% Command to generate the cover page 1.	
+\renewcommand{\maketitle} { {
+
+\newgeometry{top=2.5cm,left=2.5cm,bottom=2.5cm,right=2.5cm}
+\begin{titlepage}
+\begin{center}
+
+\fontsize{30}{60}\selectfont
+\theuniversityCH
+
+\theinstituteCH
+
+\thethesisCH
+
+\fontsize{20}{40}\selectfont
+
+
+\vspace{2cm}
+
+\fontsize{20}{30}\selectfont
+\thetitleCH
+
+\vspace{1.5cm}
+\thetitleEN
+
+% 燙金用:
+%{\fontsize{19}{29}\selectfont
+%An Operating System State Pausing Approach to\\
+%Virtual Storage Device and \\
+%Physical Computer System Co-Simulation}
+
+%\vspace{3.5cm}
+\vfill
+
+\begin{flushleft}
+% http://tex.stackexchange.com/questions/212710/fill-space-created-by-phantom-with-other-text
+\makebox[\widthof{指導教授：}][s]{研 究 生 ：} \theauthorCH\ \\
+\makebox[\widthof{指導教授：}][l]{指 導 教 授 ：} \theadvisorCH\;教授
+
+\end{flushleft}
+
+\vspace{1.5cm}
+\thedatetitleCH{}
+	\raisebox{1pt}{\theyearCH} \theyeartitleCH{}
+	\raisebox{1pt}{\themonthCH} \themonthtitleCH\\
+
+\end{center}
+\end{titlepage}
+\restoregeometry
+
+} }
+% Command to generate the title page.
+\newcommand{\maketitleBAK}{ {
+
+\begin{titlepage}
+\begin{center}
+\fontsize{18}{27}\selectfont
+\vspace{1cm}
+\theuniversityCH\thecollegeCH\theinstituteCH\\
+\thethesisCH
+
+\fontsize{14}{21}\selectfont
+\theinstituteEN\\
+\thecollegeEN\\
+\fontsize{16}{24}\selectfont
+\theuniversityEN\\
+\thethesisEN
+
+\vspace{2cm}
+\parbox[c][150pt][c]{\textwidth}{
+\centering
+\thetitleCH\\
+\thetitleEN
+}
+
+\vspace{4cm}
+\theauthorCH\\
+\theauthorEN
+
+\vspace{1.5cm}
+\theadvisortitleCH\theadvisorCH\\
+\theadvisortitleEN{} \theadvisorEN
+
+\vspace{1.5cm}
+\thedatetitleCH{}
+	\raisebox{1pt}{\theyearCH} \theyeartitleCH{}
+	\raisebox{1pt}{\themonthCH} \themonthtitleCH\\
+\themonthEN, \theyearEN
+\end{center}
+\end{titlepage}
+
+} }
+
+\def\CJKmovesymbol#1{\raise.35em\hbox{#1}}
+\def\CJKmove{\let\CJKsymbol\CJKmovesymbol
+\let\CJKpunctsymbol\CJKsymbol}
+
+\newenvironment{kaivmove}
+{\CJKfamily{kaiv}\CJKmove{}}
+{\CJKmove\CJKfamily{kaiv}{}}
+
+\newcommand{\makeside}{ {
+\newgeometry{top=0cm,left=2.5cm,bottom=0cm,right=2.5cm}
+
+\fontsize{12}{12}\selectfont
+\noindent\rotatebox{-90}{
+\begin{tabular}{%
+	|m{1.5cm}|>{\centering}m{2cm}|>{\centering}m{2.5cm}|>{\centering}m{0.5cm}|m{8cm}|c|c|>{\centering}m{3cm}|}
+&\noindent\rotatebox{90}{104} &
+\CJKfamily{kaiv}\CJKmove{\thethesisCH} &
+{\fontsize{10}{10}\selectfont\noindent\rotatebox{90}{No.XXX}} &
+{\fontsize{12}{12}\selectfont\CJKfamily{kaiv}\CJKmove{\thetitleCH}} &
+{\fontsize{10}{10}\selectfont\CJKfamily{kaiv}\CJKmove{交通大學}}&
+{\fontsize{10}{10}\selectfont\begin{CJKfilltwosides}{4.5cm}\CJKfamily{kaiv}\CJKmove{\thecollegeCH}\\
+\CJKfamily{kaiv}\CJKmove{\theinstituteCH}\end{CJKfilltwosides}}&
+{\fontsize{14}{14}\CJKfamily{kaiv}\CJKmove{\theauthorCH }} 
+\end{tabular}
+}
+\restoregeometry
+
+\thispagestyle{empty}
+\newpage
+
+} }
+
+% Command to generate the certification page
+\newcommand{\makecertification}{ {
+
+\thispagestyle{empty}
+\addcontentsline{toc}{chapter}{口試委員會審定書}
+\begin{center}
+\fontsize{24}{36}\selectfont
+\theuniversityCH\thedegreeCH學位論文\\
+口試委員會審定書
+
+\vspace{0.5cm}
+
+\fontsize{20}{30}\selectfont\thetitleCH\\
+\thetitleEN
+\end{center}
+
+\vspace{1cm}
+
+\fontsize{16}{12}\selectfont
+本論文係\theauthorCH{}君 \raisebox{1pt}{(\thestudentID)}
+在\theuniversityCH\theinstituteCH完成之\thedegreeCH學位論文，於民國 
+\raisebox{1pt}{\theyearCH} 年 
+\raisebox{1pt}{\themonthCH} 月 
+\raisebox{1pt}{\thedateCH} 日承下列考試委員審查通過及口試及格，特此證明
+\fontsize{14}{18}\selectfont
+\vspace{1.5cm}\\
+
+\fontsize{16}{12}\selectfont
+\noindent
+口試委員：
+
+{\centering
+\fontsize{16}{25}\selectfont
+
+
+\hspace{84pt} \underline{\hspace{18.15em}(簽名)} 
+
+
+(指導教授)
+
+\hspace{84pt} \underline{\hspace{8.825em}} \hspace{2.5em} \underline{\hspace{8.825em}}
+\vspace{30pt}
+
+\hspace{84pt} \underline{\hspace{8.825em}} \hspace{2.5em} \underline{\hspace{8.825em}}
+\vspace{30pt}
+
+\hspace{84pt} \underline{\hspace{8.825em}} \hspace{2.5em} \underline{\hspace{8.825em}}
+\vspace{30pt}
+
+\hspace{84pt} \underline{\hspace{8.825em}} \hspace{2.5em} \underline{\hspace{8.825em}}
+\vspace{30pt}
+
+}
+
+\fontsize{14}{25}\selectfont
+\noindent
+系主任、所長  \fontsize{16}{25}\selectfont\underline{\hspace{13em} (簽名)} 
+\vspace*{20pt}
+
+\newpage
+
+} }
+
+% Environment to generate the english abstract page.
+\newenvironment{abstractEN} % {{{
+  {
+% For 圖書館
+%\newgeometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2cm}
+% For 列印
+\newgeometry{left=2cm,right=3cm,top=2.5cm,bottom=2cm}
+{\centering
+  {\large\parbox{\textwidth}{\hyphenpenalty=10000\centering\thetitleEN\par}}
+  
+  \vspace{0.9cm}
+%  \chapter*{\centerline{\theabstractnameEN}}%
+	\addcontentsline{toc}{chapter}{\theabstractnameEN}%
+    Student: \theauthorEN\hfill \theadvisortitleEN\theadvisorEN%
+    
+    \vspace{0.9cm}%
+    \theinstituteEN\par%
+   	\theuniversityEN\par%
+	\vspace{0.9cm}%
+    ABSTRACT\par%
+    \vspace{0.9cm}%
+\par}
+}%
+  {\newpage\aftergroup\restoregeometry} % }}}
+
+% Environment to generate the chinese abstract page.
+\newenvironment{abstractCH} % {{{
+{
+% For 圖書館
+%\newgeometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2cm}
+% For 列印
+\newgeometry{left=3cm,right=2cm,top=2.5cm,bottom=2cm}
+{\centering
+	{\large\parbox{\dimexpr\textwidth-4cm}{\hyphenpenalty=10000\centering\thetitleCH\par}}
+
+	\vspace{1cm}
+	\addcontentsline{toc}{chapter}{\theabstractnameCH}%
+	研究生： \theauthorCH\hfill \theadvisortitleCH\theadvisorCH%
+	
+	\vspace{1.1cm}%
+	\theuniversityCH\theinstituteCH 博士班\par%
+	\vspace{1.1cm}
+	摘 要\par
+	\vspace{1.1cm}%
+\par}
+}%
+  {\newpage\aftergroup\restoregeometry} % }}}
+
+% Environment to generate the english acknowledgements page.
+\newenvironment{acknowledgementsEN} % {{{
+  {\chapter*{\centerline{\theacknowledgementsnameEN}}%
+	\addcontentsline{toc}{chapter}{\theacknowledgementsnameEN}%	
+	\quotation}
+  {\endquotation\newpage} % }}}
+
+% Environment to generate the chinese acknowledgements page.
+\newenvironment{acknowledgementsCH} % {{{
+  {%
+	\chapter*{\centerline{\theacknowledgementsnameCH}}%
+	\addcontentsline{toc}{chapter}{\theacknowledgementsnameCH}%
+	\quotation}
+  {\endquotation\newpage} % }}}
+
+\input{nctuvars}

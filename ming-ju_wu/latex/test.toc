@@ -1,0 +1,58 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {chapter}{中文摘要}{i}{Doc-Start}
+\contentsline {chapter}{Abstract}{ii}{Doc-Start}
+\contentsline {chapter}{Contents}{iii}{chapter*.1}
+\contentsline {chapter}{List of Figures}{v}{chapter*.2}
+\contentsline {chapter}{List of Tables}{vii}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}The Problem and Motivation}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Thesis Statement}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Overview of the Dissertation}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Contributions}{6}{section.1.4}
+\contentsline {section}{\numberline {1.5}The Organization}{7}{section.1.5}
+\contentsline {chapter}{\numberline {2}Previous Work}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Conventional Approaches to Storage Subsystem Evaluation}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Simulation with I/O Traces}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Simulation with Abstract System-Level Models}{10}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Complete Machine Simulation}{12}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Timing-Accurate Storage Device Emulation}{13}{subsection.2.1.4}
+\contentsline {subsubsection}{Local Virtual Storage Device Emulation}{14}{Item.10}
+\contentsline {subsubsection}{Remote Actual Storage Device Emulation}{15}{figure.caption.6}
+\contentsline {section}{\numberline {2.2}Related Work}{17}{section.2.2}
+\contentsline {chapter}{\numberline {3}Operating System State Pausing and Virtual Storage Device \\ Co-Simulation}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Controlling the Operating System State}{24}{section.3.1}
+\contentsline {section}{\numberline {3.2}Storage Device Emulation and Discrete Event Simulation}{25}{section.3.2}
+\contentsline {section}{\numberline {3.3}Synchronization Granularity}{27}{section.3.3}
+\contentsline {section}{\numberline {3.4}Time-Skipping --- Fast Forwarding the CPU Idle Loop}{29}{section.3.4}
+\contentsline {chapter}{\numberline {4}A Full-System Co-Simulator for Storage Subsystem Evaluation}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Controlling the State of the Linux Operating System}{34}{section.4.1}
+\contentsline {section}{\numberline {4.2}Controlling the Current System Time}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}Block Device Driver Proxy}{40}{section.4.3}
+\contentsline {section}{\numberline {4.4}Direct Backing Storage Access}{41}{section.4.4}
+\contentsline {section}{\numberline {4.5}Integration with Third-Party Disk Simulators}{42}{section.4.5}
+\contentsline {section}{\numberline {4.6}Experimental Results}{44}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Timing Accuracy of the Simulated Storage Device}{45}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Simulation Speed}{48}{subsection.4.6.2}
+\contentsline {section}{\numberline {4.7}Applications of the Proposed Full-System Co-Simulator}{55}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Studying the Effects of Having Faster Storage Devices}{55}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}Simulating Systems with Different CPU Speeds}{58}{subsection.4.7.2}
+\contentsline {chapter}{\numberline {5}A Storage Device Emulator for System Performance Evaluation}{63}{chapter.5}
+\contentsline {section}{\numberline {5.1}Operating System State Pausing}{68}{section.5.1}
+\contentsline {section}{\numberline {5.2}Operating System State Pausing and Storage Device Emulation}{71}{section.5.2}
+\contentsline {section}{\numberline {5.3}Emulator Server with Disk Model Simulation Time Rollback Support}{73}{section.5.3}
+\contentsline {section}{\numberline {5.4}Detailed Operation of the Proposed Storage Device Emulator}{77}{section.5.4}
+\contentsline {section}{\numberline {5.5}Operating System Independent Networking Module}{82}{section.5.5}
+\contentsline {section}{\numberline {5.6}Experimental Results}{83}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Sequential Read Bandwidth}{87}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}The Postmark Benchmark}{89}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Linux Kernel Source Archive Extraction and Word Count}{91}{subsection.5.6.3}
+\contentsline {subsection}{\numberline {5.6.4}Video Encoding and Decoding}{95}{subsection.5.6.4}
+\contentsline {subsection}{\numberline {5.6.5}Effects of Disk Model Complexity on Conventional Storage Device Emulators}{98}{subsection.5.6.5}
+\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{101}{chapter.6}
+\contentsline {section}{\numberline {6.1}Conclusions}{101}{section.6.1}
+\contentsline {section}{\numberline {6.2}Directions for Future Research}{102}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Support for Emulating Multiple Storage Devices}{102}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Pausing the System State from a Lower Level}{102}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Simulating Thermal Behaviors of the Target System}{103}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Explicitly Control the Advancement of System Time}{104}{subsection.6.2.4}
+\contentsline {chapter}{Bibliography}{107}{subsection.6.2.4}

@@ -1,0 +1,1524 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{Chang:2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a4b8b38bfd7a975a49139c23dde38f41}{Chang}{C\bibinitperiod}{Li-Pin}{L\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a4b8b38bfd7a975a49139c23dde38f41}
+      \strng{fullhash}{a4b8b38bfd7a975a49139c23dde38f41}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-9340}
+      \field{journaltitle}{Computers, IEEE Transactions on}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{A Hybrid Approach to NAND-Flash-Based Solid-State Disks}
+      \field{volume}{59}
+      \field{year}{2010}
+      \field{pages}{1337\bibrangedash 1349}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TC.2010.14
+      \endverb
+      \keyw{flash memories;logic design;MLC NAND flash;NAND-flash-based solid-state disks;SLC NAND flash;SSD design;flash-memory applications;Ash;Clustering algorithms;Computers;Ferroelectric films;Nonvolatile memory;Radiation detectors;Random access memory;Flash memory;file systems;solid-state disks.;storage systems}
+    \endentry
+    \entry{Wu:2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b5cb47ef0c5f3f41857ca7272a2d7f32}{Wu}{W\bibinitperiod}{Chin-Hsien}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b5cb47ef0c5f3f41857ca7272a2d7f32}
+      \strng{fullhash}{b5cb47ef0c5f3f41857ca7272a2d7f32}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1539-9087}
+      \field{journaltitle}{ACM Trans. Embed. Comput. Syst.}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{A Self-adjusting Flash Translation Layer for Resource-limited Embedded Systems}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{pages}{31:1\bibrangedash 31:26}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/1721695.1721697
+      \endverb
+      \keyw{Flash memory,embedded systems,flash translation layer,storage systems}
+    \endentry
+    \entry{Chang:2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b534164af816ec79a9ee6b1b3e73d28a}{Chang}{C\bibinitperiod}{Yuan-Hao}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=3593b4df6f2e63830421377d1834c5e8}{Wu}{W\bibinitperiod}{Po-Liang}{P\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=edbbad7c28c43e98957a46ecc2bf0814}{Kuo}{K\bibinitperiod}{Tei-Wei}{T\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=5c01d24373524b058c511309336b0b7c}{Hung}{H\bibinitperiod}{Shih-Hao}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{0af7f1d60f7cd7a9ab899d3ff5242deb}
+      \strng{fullhash}{2c8a188063032382f3385af0101db565}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1539-9087}
+      \field{journaltitle}{ACM Trans. Embed. Comput. Syst.}
+      \field{month}{04}
+      \field{number}{1}
+      \field{title}{An Adaptive File-system-oriented FTL Mechanism for Flash-memory Storage Systems}
+      \field{volume}{11}
+      \field{year}{2012}
+      \field{pages}{9:1\bibrangedash 9:19}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2146417.2146426
+      \endverb
+      \keyw{MLC flash memory,NAND flash memory,NTFS,address translation,ext2,file systems,performance enhancement,solid-state drives}
+    \endentry
+    \entry{Zilberberg:2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0f4ce75f1dbd786c9726a0d20f4cb6e0}{Zilberberg}{Z\bibinitperiod}{Omer}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=41c647e9d218752467ac0025d53bba69}{Weiss}{W\bibinitperiod}{Shlomo}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d470ae1ca009ca2f791b1d4d644730a0}{Toledo}{T\bibinitperiod}{Sivan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b6950335c5ed04b1243d9b695d121391}
+      \strng{fullhash}{b6950335c5ed04b1243d9b695d121391}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0360-0300}
+      \field{journaltitle}{ACM Comput. Surv.}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{Phase-change Memory: An Architectural Perspective}
+      \field{volume}{45}
+      \field{year}{2013}
+      \field{pages}{29:1\bibrangedash 29:33}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2480741.2480746
+      \endverb
+      \keyw{Computer architecture,hybrid memory systems,main memory,phase change memory}
+    \endentry
+    \entry{Doh:2007}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=37e109f6c46ab30acb82c7ebfbdf8625}{Doh}{D\bibinitperiod}{In\bibnamedelima Hwan}{I\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=61552c541958045003bd5b133cc0e4c1}{Choi}{C\bibinitperiod}{Jongmoo}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d8ab8441fd1d058f92896b905d3f69}{Lee}{L\bibinitperiod}{Donghee}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cdac1bdc2eaa9d8ed6d068948f591200}{Noh}{N\bibinitperiod}{Sam\bibnamedelima H.}{S\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salzburg, Austria}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{47942d209242df9f6aa220673ffa0dc0}
+      \strng{fullhash}{0b6c1ad529aea5f830615c7d692564c8}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 7th ACM \&Amp; IEEE International Conference on Embedded Software}
+      \field{isbn}{978-1-59593-825-1}
+      \field{series}{EMSOFT '07}
+      \field{title}{Exploiting Non-volatile RAM to Enhance Flash File System Performance}
+      \field{year}{2007}
+      \field{pages}{164\bibrangedash 173}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/1289927.1289955
+      \endverb
+      \keyw{experimental evaluation,file system,flash memory,metadata,non-volatile RAM}
+    \endentry
+    \entry{wiki:3DXpoint}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 24-November-2015]}
+      \field{title}{3D XPoint --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=3D_XPoint&oldid=683588774
+      \endverb
+    \endentry
+    \entry{Kim:2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=143d59f2090869b498c05d3a1e33bb74}{Kim}{K\bibinitperiod}{Hyojun}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=d1fd076a8d1c410ff95f018ebfc36bd7}{Agrawal}{A\bibinitperiod}{Nitin}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=6961a3cbfb9bc3e6d5ee7d33531e9fb3}{Ungureanu}{U\bibinitperiod}{Cristian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b23584436c262a9f156ea28c779e6d5d}
+      \strng{fullhash}{b23584436c262a9f156ea28c779e6d5d}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1553-3077}
+      \field{journaltitle}{Trans. Storage}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Revisiting Storage for Smartphones}
+      \field{volume}{8}
+      \field{year}{2012}
+      \field{pages}{14:1\bibrangedash 14:25}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2385603.2385607
+      \endverb
+      \keyw{Android,Storage systems,mobile,mobile storage,smartphones}
+    \endentry
+    \entry{Thekkath:1994}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d5d747bd16b6145e343dc129ff05f6d1}{Thekkath}{T\bibinitperiod}{Chandramohan\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5f3c579f3b21ba42d76c7a3ee89b6ca2}{Wilkes}{W\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9d3f4d81524d4a82f3af83ce5e081cbe}{Lazowska}{L\bibinitperiod}{Edward\bibnamedelima D.}{E\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{9bd56598f07bc5d8c4ac4f33efb6a8e8}
+      \strng{fullhash}{9bd56598f07bc5d8c4ac4f33efb6a8e8}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Softw: Pract. Exper.}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Techniques for file system simulation}
+      \field{volume}{24}
+      \field{year}{1994}
+      \field{pages}{981\bibrangedash 999}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1002/spe.4380241102
+      \endverb
+    \endentry
+    \entry{Ganger:1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e95333cddc4dee120ceddc22db7d9df7}{Ganger}{G\bibinitperiod}{G.R.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=69cc3ac27c44f7da6d05cfa6c94002da}{Patt}{P\bibinitperiod}{Y.N.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{59694f7ece035ea9062c08d99de80c27}
+      \strng{fullhash}{59694f7ece035ea9062c08d99de80c27}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-9340}
+      \field{journaltitle}{Computers, IEEE Transactions on}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{Using system-level models to evaluate I/O subsystem designs}
+      \field{volume}{47}
+      \field{year}{1998}
+      \field{pages}{667\bibrangedash 678}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/12.689646
+      \endverb
+      \keyw{digital simulation;performance evaluation;systems analysis;I/O subsystem designs evaluation;overall system performance;performance effects;performance evaluation;standalone subsystem models;system behavior;system performance;system-level model;system-level models;system-level simulation model;Central Processing Unit;Computational modeling;Computer Society;Computer simulation;Delay;Feedback;Particle measurements;Predictive models;System performance;Throughput}
+    \endentry
+    \entry{Wu:2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6472f1ff94919e413b5652dab7fd889f}{Wu}{W\bibinitperiod}{Ming-Ju}{M\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8f9cca23078978d7803089210a63ed4d}{Tsai}{T\bibinitperiod}{Chun-Jen}{C\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{09ffb6f381aed44bf823f89fb93c6455}
+      \strng{fullhash}{09ffb6f381aed44bf823f89fb93c6455}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1539-9087}
+      \field{journaltitle}{ACM Trans. Embed. Comput. Syst.}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{A Storage Device Emulator for System Performance Evaluation}
+      \field{volume}{14}
+      \field{year}{2015}
+      \field{pages}{82:1\bibrangedash 82:27}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2785969
+      \endverb
+      \keyw{Storage emulation,storage evaluation}
+    \endentry
+    \entry{Rosenblum:1995}{article}{}
+      \name{author}{4}{}{%
+        {{hash=92f328227a82fbaac9f9593eb6f56962}{Rosenblum}{R\bibinitperiod}{Mendel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6f5b35dad1c0a515faa4636f77e09250}{Herrod}{H\bibinitperiod}{Stephen\bibnamedelima A.}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=d5a88bc659dbc8d53fb7f0958de11f7f}{Witchel}{W\bibinitperiod}{Emmett}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=05b2c8261675d94fa92064f8561eb8d2}{Gupta}{G\bibinitperiod}{Anoop}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Los Alamitos, CA, USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{1e4b4c2929ecb1cb87b50a65627be555}
+      \strng{fullhash}{0e8d262b45c717384ecfedfbf443c8ca}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1063-6552}
+      \field{journaltitle}{IEEE Parallel Distrib. Technol.}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Complete Computer System Simulation: The SimOS Approach}
+      \field{volume}{3}
+      \field{year}{1995}
+      \field{pages}{34\bibrangedash 43}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/88.473612
+      \endverb
+    \endentry
+    \entry{Gibson:2000}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=878af82f2aba6d97373ffdcff0d28d11}{Gibson}{G\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3bd0200da293ef5c2361f984c231ebc7}{Kunz}{K\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f76f039e78495be898760fb8ced673b0}{Ofelt}{O\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2c9d1aa766759ce8abffd16d2a35689e}{Horowitz}{H\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=629b728035de412d23363a3713136a2c}{Hennessy}{H\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fb082c1b2b03fc46ce66a052aa12117a}{Heinrich}{H\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{1a6140045d61f276b455a372d441b9ee}
+      \strng{fullhash}{b6613ec461f6ffdaced71acba1d8ee82}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Ninth International Conference on Architectural Support for Programming Languages and Operating Systems}
+      \field{isbn}{1-58113-317-0}
+      \field{series}{ASPLOS IX}
+      \field{title}{FLASH vs. (Simulated) FLASH: Closing the Simulation Loop}
+      \field{year}{2000}
+      \field{pages}{49\bibrangedash 58}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/378993.379000
+      \endverb
+    \endentry
+    \entry{Gutierrez:2014}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=4fcf68d1b3574caecc34bce32e75ec4d}{Gutierrez}{G\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=755d1c7c6bafdda555a09fe645c3d7cc}{Pusdesris}{P\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=0378dd7995d32ac7a7a957913ed1c579}{Dreslinski}{D\bibinitperiod}{R.G.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=d8a16af42725c270db7162d8fd64fa34}{Mudge}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=6d62c00d764729391aea8678b81c567b}{Sudanthi}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bbead8ef88445a0b28b943b3dcf6b848}{Emmons}{E\bibinitperiod}{C.D.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=16d6fdca4900fedd0a95f1403d640cfb}{Hayenga}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=af59e440a439e99af3765c9e45fbb562}{Paver}{P\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bd8554f0e51344bc690d9cbdeaaf285d}
+      \strng{fullhash}{43aa48241a3562e7d7acd7baf1a1282e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Performance Analysis of Systems and Software (ISPASS), 2014 IEEE International Symposium on}
+      \field{month}{03}
+      \field{title}{Sources of error in full-system simulation}
+      \field{year}{2014}
+      \field{pages}{13\bibrangedash 22}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ISPASS.2014.6844457
+      \endverb
+      \keyw{digital simulation;statistical analysis;system-on-chip;ARM Versatile Express TC2 development board;PARSEC benchmarks;SPEC CPU2006 benchmarks;dual-core run;error sources;full-system simulation;gem5 computer simulator;gem5 configuration;microarchitectural statistics;single-core run;Accuracy;Benchmark testing;Hardware;Pipelines;Prefetching;Registers;Runtime;computer architecture;computer simulation}
+    \endentry
+    \entry{Eklov:2011}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e1ab3ce3f8d4370d12d6777944e82f59}{Eklov}{E\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc334f466c2ade255a7d58c88bbc5bc7}{Nikoleris}{N\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=702fe92e119fa805db5663dc8fe0d089}{Black-Schaffer}{B\bibinithyphendelim S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=06668576945052bc8f1cbcd70855efa6}{Hagersten}{H\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dab4b9892d54acafbe31dac0cf08df6a}
+      \strng{fullhash}{5a24206c59cbcb4bb0c47b6c998caf5f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Parallel Processing (ICPP), 2011 International Conference on}
+      \field{issn}{0190-3918}
+      \field{month}{09}
+      \field{title}{Cache Pirating: Measuring the Curse of the Shared Cache}
+      \field{year}{2011}
+      \field{pages}{165\bibrangedash 175}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/ICPP.2011.15
+      \endverb
+      \keyw{cache storage;Nehalem based test system;Pirate application;Target application;application performance measurement;cache pirating;off-chip bandwidth measurement;performance counter;shared cache capacity;Bandwidth;Benchmark testing;Hardware;Instruction sets;Radiation detectors;Size measurement;Throughput;cache performance;memory bandwidth;memory system;multicore performance;performance analysis}
+    \endentry
+    \entry{Butko:2012}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=eaa6113b6945c01d13cfc3a67f14e9a2}{Butko}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=751d8b5e8ed789544488c805ab9afafe}{Garibotti}{G\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=25dda100b9df9faec87bfcee4666a0ae}{Ost}{O\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=33fe0dde8d35c537f87e306d99679a6e}{Sassatelli}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{68ce57d587deda29c6ffc301e490fdc2}
+      \strng{fullhash}{241d9a47373bb38516cc7665942adff5}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), 2012 7th International Workshop on}
+      \field{month}{07}
+      \field{title}{Accuracy evaluation of GEM5 simulator system}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ReCoSoC.2012.6322869
+      \endverb
+      \keyw{discrete event simulation;embedded systems;instruction sets;multiprocessing systems;CPU-centric systems;DSE;GEM5 simulator system accuracy evaluation;binary translation techniques;design space exploration;high-level hardware prototyping models;instruction-set simulators;multicore embedded system;quasicycle level accuracy;real-time simulation speed;Accuracy;Benchmark testing;Computer architecture;Hardware;Kernel;Object oriented modeling;GEM5;embedded system;modeling and full-system simulation}
+    \endentry
+    \entry{Griffin:2002}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=0dfb56f2584e11cfe94e547e818bf558}{Griffin}{G\bibinitperiod}{John\bibnamedelima Linwood}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=92757b93420a1de435475a11dfac4666}{Schindler}{S\bibinitperiod}{Jiri}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=0764f992a4d511ba0cda89fa9aa91bd9}{Schlosser}{S\bibinitperiod}{Steven\bibnamedelima W.}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=fe80418dbb2e9f0c82b1b12ea3b70eb0}{Bucy}{B\bibinitperiod}{John\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=e682532a8cbbedda0f6caa7306208d67}{Ganger}{G\bibinitperiod}{Gregory\bibnamedelima R.}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Monterey, CA}%
+      }
+      \list{publisher}{1}{%
+        {USENIX Association}%
+      }
+      \strng{namehash}{ae1d3491ce7a90283e4d72cf659bbc0e}
+      \strng{fullhash}{a578dd9b701db01c992777ed5d4563db}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1st USENIX Conference on File and Storage Technologies}
+      \field{series}{FAST'02}
+      \field{title}{Timing-accurate Storage Emulation}
+      \field{year}{2002}
+      \field{pages}{6\bibrangedash 6}
+      \range{pages}{1}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1973333.1973339
+      \endverb
+    \endentry
+    \entry{Traeger:2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a00d520b5d724c41e9cf0cd6fa0b8b1c}{Traeger}{T\bibinitperiod}{Avishay}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6c79b4d2fa53538347e4a5f171a1cd36}{Zadok}{Z\bibinitperiod}{Erez}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=f2862c318c3585afa247d89a85a46648}{Joukov}{J\bibinitperiod}{Nikolai}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=6ff1d37f1cdd281ee06c36c8b5ef1130}{Wright}{W\bibinitperiod}{Charles\bibnamedelima P.}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{00ad7cc25b8971805f3c4b3bcea11a56}
+      \strng{fullhash}{35444d3b7739f70e4b69872b7559a5bd}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1553-3077}
+      \field{journaltitle}{Trans. Storage}
+      \field{month}{05}
+      \field{number}{2}
+      \field{title}{A Nine Year Study of File System and Storage Benchmarking}
+      \field{volume}{4}
+      \field{year}{2008}
+      \field{pages}{5:1\bibrangedash 5:56}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/1367829.1367831
+      \endverb
+      \keyw{Benchmarks,file systems,storage systems}
+    \endentry
+    \entry{Witchel:1996}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d5a88bc659dbc8d53fb7f0958de11f7f}{Witchel}{W\bibinitperiod}{Emmett}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=92f328227a82fbaac9f9593eb6f56962}{Rosenblum}{R\bibinitperiod}{Mendel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia, Pennsylvania, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{2e0af9053df734b0bcf5e670b1f2769e}
+      \strng{fullhash}{2e0af9053df734b0bcf5e670b1f2769e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1996 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems}
+      \field{isbn}{0-89791-793-6}
+      \field{series}{SIGMETRICS '96}
+      \field{title}{Embra: Fast and Flexible Machine Simulation}
+      \field{year}{1996}
+      \field{pages}{68\bibrangedash 79}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/233013.233025
+      \endverb
+    \endentry
+    \entry{Rosenblum:1997}{article}{}
+      \name{author}{4}{}{%
+        {{hash=92f328227a82fbaac9f9593eb6f56962}{Rosenblum}{R\bibinitperiod}{Mendel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=548e8276559d3179c9988ae2972d4f84}{Bugnion}{B\bibinitperiod}{Edouard}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=2766f8778a08de6115f23a56fa114ca7}{Devine}{D\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=6f5b35dad1c0a515faa4636f77e09250}{Herrod}{H\bibinitperiod}{Stephen\bibnamedelima A.}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{1e4b4c2929ecb1cb87b50a65627be555}
+      \strng{fullhash}{92883994a73921ccd732262e646ff785}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1049-3301}
+      \field{journaltitle}{ACM Trans. Model. Comput. Simul.}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Using the SimOS Machine Simulator to Study Complex Computer Systems}
+      \field{volume}{7}
+      \field{year}{1997}
+      \field{pages}{78\bibrangedash 103}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1145/244804.244807
+      \endverb
+      \keyw{computer architecture,computer simulation,computer system performance analysis,operating systems}
+    \endentry
+    \entry{Griffin:2000}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=0dfb56f2584e11cfe94e547e818bf558}{Griffin}{G\bibinitperiod}{John\bibnamedelima Linwood}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=0764f992a4d511ba0cda89fa9aa91bd9}{Schlosser}{S\bibinitperiod}{Steven\bibnamedelima W.}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=e682532a8cbbedda0f6caa7306208d67}{Ganger}{G\bibinitperiod}{Gregory\bibnamedelima R.}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=ebb0e37e5a747477822fd28bb9496cd8}{Nagle}{N\bibinitperiod}{David\bibnamedelima F.}{D\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Santa Clara, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{ae1d3491ce7a90283e4d72cf659bbc0e}
+      \strng{fullhash}{e19bea7ef33b5e160e21719b8debc8dd}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2000 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems}
+      \field{isbn}{1-58113-194-1}
+      \field{series}{SIGMETRICS '00}
+      \field{title}{Modeling and Performance of MEMS-based Storage Devices}
+      \field{year}{2000}
+      \field{pages}{56\bibrangedash 65}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/339331.339354
+      \endverb
+    \endentry
+    \entry{Bucy:2008}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=fe80418dbb2e9f0c82b1b12ea3b70eb0}{Bucy}{B\bibinitperiod}{John\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=92757b93420a1de435475a11dfac4666}{Schindler}{S\bibinitperiod}{Jiri}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=0764f992a4d511ba0cda89fa9aa91bd9}{Schlosser}{S\bibinitperiod}{Steven\bibnamedelima W.}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=e682532a8cbbedda0f6caa7306208d67}{Ganger}{G\bibinitperiod}{Gregory\bibnamedelima R.}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{033516f1bc04aea76643cf03ae0578ab}
+      \strng{fullhash}{f3ac11dea7043834a14ca297fb32b997}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The DiskSim Simulation Environment Version 4.0 Reference Manual}
+      \field{year}{2008}
+    \endentry
+    \entry{ElMaghraoui:2010}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=839d599cc49985a1ff2b37c07763c623}{El\bibnamedelima Maghraoui}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{Kaoutar}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=5a32cc5de4c152096c79bed2a6faec3f}{Kandiraju}{K\bibinitperiod}{Gokul}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=3accbb70536583af0be243b4886cad81}{Jann}{J\bibinitperiod}{Joefon}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=28f21fe52876766d3c1bd4c33161bfac}{Pattnaik}{P\bibinitperiod}{Pratap}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {San Jose, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f3a431540b5ce5cb05a6103bd64b6758}
+      \strng{fullhash}{ac757a2af059b83ded7349edb56229f2}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the First Joint WOSP/SIPEW International Conference on Performance Engineering}
+      \field{isbn}{978-1-60558-563-5}
+      \field{series}{WOSP/SIPEW '10}
+      \field{title}{Modeling and Simulating Flash Based Solid-state Disks for Operating Systems}
+      \field{year}{2010}
+      \field{pages}{15\bibrangedash 26}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1712605.1712611
+      \endverb
+      \keyw{modeling,nand flash memory,simulator,solid state disks (ssd)}
+    \endentry
+    \entry{Lee:2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ffeef03fc05f179d268e2ebb785795ba}{Lee}{L\bibinitperiod}{Ying-Chieh}{Y\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=28b922e0488b6b54bac9771412ddd89d}{Kuo}{K\bibinitperiod}{Chin-Ting}{C\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=a4b8b38bfd7a975a49139c23dde38f41}{Chang}{C\bibinitperiod}{Li-Pin}{L\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{17255891194df32d6028940befaf2eab}
+      \strng{fullhash}{17255891194df32d6028940befaf2eab}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1943-0663}
+      \field{journaltitle}{Embedded Systems Letters, IEEE}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Design and Implementation of a Virtual Platform of Solid-State Disks}
+      \field{volume}{4}
+      \field{year}{2012}
+      \field{pages}{90\bibrangedash 93}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/LES.2012.2213795
+      \endverb
+      \keyw{firmware;flash memories;hard discs;user interfaces;virtual storage;SSD firmware prototyping;SSD hardware prototyping;SSD logical instance;SSD simulation tool;block read-write;flash chip organization;flash management algorithm;host system;host-device interaction;programming interface;realistic I/O latency;solid-state disks;virtual disk;virtual platform;Prototypes;Simulation;Virtual prototyping;Prototyping;simulation;solid-state disk}
+    \endentry
+    \entry{Agrawal:2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d1fd076a8d1c410ff95f018ebfc36bd7}{Agrawal}{A\bibinitperiod}{Nitin}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=86a71186a5be38c62a2b2f5ff0567c1b}{Arulraj}{A\bibinitperiod}{Leo}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=80409a6d1d5794e499766d8169ce5c78}{Arpaci-Dusseau}{A\bibinithyphendelim D\bibinitperiod}{Andrea\bibnamedelima C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=1f3b776bd5ac3ece409eee185fec4115}{Arpaci-Dusseau}{A\bibinithyphendelim D\bibinitperiod}{Remzi\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{01f5b37f0adbf52be965ea746f2eb52f}
+      \strng{fullhash}{e013039c28410f39a3ca39f176bd23d1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1553-3077}
+      \field{journaltitle}{Trans. Storage}
+      \field{month}{02}
+      \field{number}{4}
+      \field{title}{Emulating Goliath Storage Systems with David}
+      \field{volume}{7}
+      \field{year}{2012}
+      \field{pages}{12:1\bibrangedash 12:21}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2078861.2078862
+      \endverb
+      \keyw{Storage systems,emulation,file systems,scalability}
+    \endentry
+    \entry{wiki:btrfs}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 30-November-2015]}
+      \field{title}{Btrfs --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Btrfs&oldid=691398471
+      \endverb
+    \endentry
+    \entry{Yoo:2013}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=c0e1fab43bee312ddcb63a76cbfc11ed}{Yoo}{Y\bibinitperiod}{Jinsoo}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e83909c3af34582bfc1b2b1d9acb42b3}{Won}{W\bibinitperiod}{Youjip}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=d86da370e7ed1366e581fc7f1fd86bd8}{Hwang}{H\bibinitperiod}{Joongwoo}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e2a544be1ec3fd3dda83bb26ff5004c2}{Kang}{K\bibinitperiod}{Sooyong}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=61552c541958045003bd5b133cc0e4c1}{Choi}{C\bibinitperiod}{Jongmoo}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f5ccf882c39a05e689c6de47c0e30a56}{Yoon}{Y\bibinitperiod}{Sungroh}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bf25c31b23136af444036a5ff06ab908}{Cha}{C\bibinitperiod}{Jaehyuk}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d6ffdde777b3550d05eaa56ac5f561af}
+      \strng{fullhash}{04f3e2133105bdc5bac1a6d7c9aa70fb}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mass Storage Systems and Technologies (MSST), 2013 IEEE 29th Symposium on}
+      \field{issn}{2160-195X}
+      \field{month}{05}
+      \field{title}{VSSIM: Virtual machine based SSD simulator}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/MSST.2013.6558443
+      \endverb
+      \keyw{NAND circuits;flash memories;IO size distribution;NAND based storage device;NAND cell;QEMU/KVM;SSD firmware algorithm;VSSIM;X25M;block size;channel level parallelism;channel switch delay;mapping granularity;multichannel environment;page size;software based SSD module;trace driven simulation;virtual SSD simulator;virtual machine;way switch delay;write amplification factor;Ash;Delays;Hardware;Parallel processing;Performance evaluation;Registers;Switches}
+    \endentry
+    \entry{Canon:1980}{article}{}
+      \name{author}{6}{}{%
+        {{hash=19bd81806b4bb68ba7050cf837644cdd}{Canon}{C\bibinitperiod}{M.\bibnamedelimi D.}{M\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=6cc6797fb889f073f4d564cf8b9b4ed5}{Fritz}{F\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=903ee7884d400718174bbfea8f2a9351}{Howard}{H\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=18ade03bcc9ad6fae11b72c86cc55108}{Howell}{H\bibinitperiod}{T.\bibnamedelimi D.}{T\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=692a4b49e20f680d4f2d3acb86d94b9f}{Mitoma}{M\bibinitperiod}{M.\bibnamedelimi F.}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=5f600a42d4890d42d923da1531d0b0dc}{Rodriquez-Rosell}{R\bibinithyphendelim R\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f4c3fac1746fdc26c01e574bfa244b2f}
+      \strng{fullhash}{5f698cea984ec87b529f380928ffee4e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0001-0782}
+      \field{journaltitle}{Commun. ACM}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{A Virtual Machine Emulator for Performance Evaluation}
+      \field{volume}{23}
+      \field{year}{1980}
+      \field{pages}{71\bibrangedash 80}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/358818.358821
+      \endverb
+      \keyw{computer system simulation,performance evaluation,virtual machines}
+    \endentry
+    \entry{Gupta:2006}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=563a49b8d04d5fc138ef8ec82ce1fe7a}{Gupta}{G\bibinitperiod}{Diwaker}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9847250558de05a0819e97c0a37a9572}{Yocum}{Y\bibinitperiod}{Kenneth}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=8279d07610c57f87c398e7a585667e72}{McNett}{M\bibinitperiod}{Marvin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e9eb9a31607ff6c673a5400b1ef5bff2}{Snoeren}{S\bibinitperiod}{Alex\bibnamedelima C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8999178b72243773300917591e511e88}{Vahdat}{V\bibinitperiod}{Amin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=a9a53f9974e49ef27c6c328c25992792}{Voelker}{V\bibinitperiod}{Geoffrey\bibnamedelima M.}{G\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {San Jose, CA}%
+      }
+      \list{publisher}{1}{%
+        {USENIX Association}%
+      }
+      \strng{namehash}{aabe89648ecf9452280d6e62ca08482d}
+      \strng{fullhash}{64cfbe52725e3a6d3001896ea2884490}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 3rd Conference on Networked Systems Design \& Implementation - Volume 3}
+      \field{series}{NSDI'06}
+      \field{title}{To Infinity and Beyond: Time-warped Network Emulation}
+      \field{year}{2006}
+      \field{pages}{7\bibrangedash 7}
+      \range{pages}{1}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1267680.1267687
+      \endverb
+    \endentry
+    \entry{Ubuntu:2013}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.ubuntu.com/}}
+      \field{note}{Accessed July, 2013}
+      \field{title}{Ubuntu Linux webpage}
+    \endentry
+    \entry{Bovet:2005}{book}{}
+      \name{author}{2}{}{%
+        {{hash=5a6e3c374fa77b004bf18bd833dfb596}{Bovet}{B\bibinitperiod}{Daniel\bibnamedelima P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=6802cf15d4ce77b7e7d2ef970fd22925}{Cesati}{C\bibinitperiod}{Marco}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{27f6966a247d683d8f43f477d3d07f4f}
+      \strng{fullhash}{27f6966a247d683d8f43f477d3d07f4f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{9780596005658}
+      \field{month}{11}
+      \field{title}{Understanding the Linux Kernel, Third Edition}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://amazon.com/o/ASIN/0596005652/
+      \endverb
+    \endentry
+    \entry{Love:2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3262f21e1ec854d54444577e29125b8e}{Love}{L\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{3262f21e1ec854d54444577e29125b8e}
+      \strng{fullhash}{3262f21e1ec854d54444577e29125b8e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{9780672329463}
+      \field{month}{7}
+      \field{title}{Linux Kernel Development (3rd Edition)}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://amazon.com/o/ASIN/0672329468/
+      \endverb
+    \endentry
+    \entry{Stultz:2005}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=0cb48da7ef1762669a0cca027c7ea068}{Stultz}{S\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4f4adf1769446d803afe562971d92bc6}{Aravamudan}{A\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e939f92920fdac25a8e1f23ea8090138}{Hart}{H\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b2d990eab317f4e5f757d3951b6db3d2}
+      \strng{fullhash}{b2d990eab317f4e5f757d3951b6db3d2}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{In Proceedings of the Ottawa Linux Symposium (OLS'05)}
+      \field{title}{We are not getting any younger: A new approach to time and timers}
+      \field{year}{2005}
+      \field{pages}{219\bibrangedash 232}
+      \range{pages}{14}
+    \endentry
+    \entry{GleixnerNiehaus:2006}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=31fdb606bfaf98e7358daa68a8bfd956}{Gleixner}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=529b8a229f22154c489e26b97fed0e00}{Niehaus}{N\bibinitperiod}{Douglas}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ba09c8b60e43a5861168a6c8e5d2709}
+      \strng{fullhash}{2ba09c8b60e43a5861168a6c8e5d2709}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Ottawa Linux Symposium}
+      \field{title}{Hrtimers and Beyond: Transforming the Linux Time Subsystems}
+      \field{year}{2006}
+    \endentry
+    \entry{GleixnerMolnar:2006}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=31fdb606bfaf98e7358daa68a8bfd956}{Gleixner}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=65b9ae3dfe937a98569ee98d99a9ef65}{Molnar}{M\bibinitperiod}{Ingo}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4895f4845b411f4ca6ac43eb79a24159}
+      \strng{fullhash}{4895f4845b411f4ca6ac43eb79a24159}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.kernel.org/doc/Documentation/timers/hrtimers.txt}}
+      \field{note}{Accessed July, 2013}
+      \field{title}{Hrtimers - subsystem for high-resolution kernel timers}
+      \field{year}{2006}
+    \endentry
+    \entry{Gleixner:2007}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=31fdb606bfaf98e7358daa68a8bfd956}{Gleixner}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{31fdb606bfaf98e7358daa68a8bfd956}
+      \strng{fullhash}{31fdb606bfaf98e7358daa68a8bfd956}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.kernel.org/doc/Documentation/timers/highres.txt}}
+      \field{month}{02}
+      \field{note}{Accessed July, 2013}
+      \field{title}{High resolution timers and dynamic ticks design notes}
+      \field{year}{2007}
+    \endentry
+    \entry{Kerrisk:2012}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7f32f61adec784489cc0fa2cefa610a3}{Kerrisk}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{fullhash}{7f32f61adec784489cc0fa2cefa610a3}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://man7.org/linux/man-pages/man7/time.7.html}}
+      \field{month}{10}
+      \field{note}{Accessed July, 2013}
+      \field{title}{The Linux Programming Interface}
+      \field{year}{2012}
+    \endentry
+    \entry{Intel:1997}{report}{}
+      \name{author}{1}{}{%
+        {{hash=42af28f239d9ce2a4d0f9a032741150e}{Corporation}{C\bibinitperiod}{Intel}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{42af28f239d9ce2a4d0f9a032741150e}
+      \strng{fullhash}{42af28f239d9ce2a4d0f9a032741150e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{"Intel Application Notes - Using the RDTSC Instruction for Performance Monitoring"}
+      \field{type}{techreport}
+      \field{year}{1997}
+    \endentry
+    \entry{wiki:TSC}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 30-November-2015]}
+      \field{title}{Time Stamp Counter --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Time_Stamp_Counter&oldid=687485852
+      \endverb
+    \endentry
+    \entry{Corbet:2005}{book}{}
+      \name{author}{3}{}{%
+        {{hash=729670cd9d39b9b575390147a29d51d7}{Corbet}{C\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=548a2260c8f6dbadc0d85dfad02ba349}{Rubini}{R\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8edf24ea3e75c726f2c163493ab3e3c3}{Kroah-Hartman}{K\bibinithyphendelim H\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{9fbbcf4a72b42b4d94a411ddd67e1136}
+      \strng{fullhash}{9fbbcf4a72b42b4d94a411ddd67e1136}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{9780596005900}
+      \field{month}{2}
+      \field{title}{Linux Device Drivers, 3rd Edition}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://amazon.com/o/ASIN/0596005903/
+      \endverb
+    \endentry
+    \entry{Venkateswaran:2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3d87120d029d8346055340be1f70eda3}{Venkateswaran}{V\bibinitperiod}{Sreekrishnan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{3d87120d029d8346055340be1f70eda3}
+      \strng{fullhash}{3d87120d029d8346055340be1f70eda3}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{9780132396554}
+      \field{month}{4}
+      \field{title}{Essential Linux Device Drivers}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://amazon.com/o/ASIN/0132396556/
+      \endverb
+    \endentry
+    \entry{DeRosa:2006}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=15063729eb251eb4ade6f30806139fe2}{DeRosa}{D\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b086604ff3f61a4cb215301464b788c9}{Shen}{S\bibinitperiod}{Kai}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=9dbdf17caba67216671f9e65bd9c0fcc}{Stewart}{S\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=4e24c5700e77f036bf879b36ffc14b7b}{Pearson}{P\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Houston, Texas, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f6c92e3f5a6e13653f1bd3f68ee426e4}
+      \strng{fullhash}{926da6ec332f1ed8c966366e961d9c4f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 37th SIGCSE Technical Symposium on Computer Science Education}
+      \field{isbn}{1-59593-259-3}
+      \field{series}{SIGCSE '06}
+      \field{title}{Realism and Simplicity: Disk Simulation for Instructional OS Performance Evaluation}
+      \field{year}{2006}
+      \field{pages}{308\bibrangedash 312}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1145/1121341.1121436
+      \endverb
+      \keyw{disk simulation,operating systems,performance evaluation,virtual machine}
+    \endentry
+    \entry{wiki:FUSE}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 12-December-2015]}
+      \field{title}{Filesystem in Userspace --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Filesystem_in_Userspace&oldid=690907337
+      \endverb
+    \endentry
+    \entry{Christopher:1993}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9b38e3d178cf5fde44b91ee0f6aa90a0}{Christopher}{C\bibinitperiod}{Wayne\bibnamedelima A.}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=c0cc8a1225bb9cd64590843ce61ffc72}{Procter}{P\bibinitperiod}{Steven\bibnamedelima J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=42e977650a149d2bdf7d496872618f0e}{Anderson}{A\bibinitperiod}{Thomas\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {San Diego, California}%
+      }
+      \list{publisher}{1}{%
+        {USENIX Association}%
+      }
+      \strng{namehash}{e1cb8f7c3acf71af471e8ace3114240e}
+      \strng{fullhash}{e1cb8f7c3acf71af471e8ace3114240e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the USENIX Winter 1993 Conference Proceedings on USENIX Winter 1993 Conference Proceedings}
+      \field{series}{USENIX'93}
+      \field{title}{The Nachos Instructional Operating System}
+      \field{year}{1993}
+      \field{pages}{4\bibrangedash 4}
+      \range{pages}{1}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1267303.1267307
+      \endverb
+    \endentry
+    \entry{Pearson:2007}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=4e24c5700e77f036bf879b36ffc14b7b}{Pearson}{P\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=15063729eb251eb4ade6f30806139fe2}{DeRosa}{D\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=55705895375d39120172ffb4d4835474}{Zhao}{Z\bibinitperiod}{Hongzhou}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b086604ff3f61a4cb215301464b788c9}{Shen}{S\bibinitperiod}{Kai}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eb092de8e9814160845715609bcc5934}
+      \strng{fullhash}{65a71df4d65549c2c7b71d0924be2377}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.cs.rochester.edu/~kshen/research/vesper/}}
+      \field{note}{Retrieved July, 2013}
+      \field{title}{Vesper 1.0 source code}
+      \field{year}{2007}
+    \endentry
+    \entry{Vdbench:2013}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://sourceforge.net/projects/vdbench/}}
+      \field{note}{Retrieved July, 2013}
+      \field{title}{Vdbench}
+    \endentry
+    \entry{Ruemmler:1994}{article}{}
+      \name{author}{2}{}{%
+        {{hash=840b27000b60c98151a4ebbfafde55de}{Ruemmler}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a9444e48232f9e1519d564aaa47fbe71}{Wilkes}{W\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a81385ff6825c6dedbb09f7f28eb94cf}
+      \strng{fullhash}{a81385ff6825c6dedbb09f7f28eb94cf}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-9162}
+      \field{journaltitle}{Computer}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{An introduction to disk drive modeling}
+      \field{volume}{27}
+      \field{year}{1994}
+      \field{pages}{17\bibrangedash 28}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/2.268881
+      \endverb
+      \keyw{calibration;magnetic disc storage;simulation;I/O performance;accuracy;calibration;disk drive modeling;disk storage densities;disk system performance;effort;error factor;modeling assumptions;simulation models;Analytical models;Computational modeling;Disk drives;Disk recording;Embedded computing;Laboratories;Magnetic heads;Magnetic separation;Microprocessors;System performance}
+    \endentry
+    \entry{Kernel:2013}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{note}{Retrieved July, 2013}
+      \field{title}{Source code of the Linux kernel version 3.0.81}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.0.81.tar.gz
+      \endverb
+    \endentry
+    \entry{wiki:2013:CFQ}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-December-2015]}
+      \field{title}{CFQ --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=CFQ&oldid=585785991
+      \endverb
+    \endentry
+    \entry{wiki:2015:NOOP}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-December-2015]}
+      \field{title}{Noop scheduler --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Noop_scheduler&oldid=688052758
+      \endverb
+    \endentry
+    \entry{Layton:2009}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bcef8c7752b5ea3b0a6de90205b62fd4}{Layton}{L\bibinitperiod}{Jeffrey\bibnamedelima B.}{J\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bcef8c7752b5ea3b0a6de90205b62fd4}
+      \strng{fullhash}{bcef8c7752b5ea3b0a6de90205b62fd4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{Accessed July, 2013}
+      \field{title}{Tuning CFQ – What Station is That?}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.linux-mag.com/id/7572/
+      \endverb
+    \endentry
+    \entry{Iyer:2001}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e83e1dd7c9a26f5299c1218687031a2d}{Iyer}{I\bibinitperiod}{Sitaram}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fb43649db15953eb2164df87bc5034a3}{Druschel}{D\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Banff, Alberta, Canada}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b07a91b738cc2869965b2da02d912992}
+      \strng{fullhash}{b07a91b738cc2869965b2da02d912992}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Eighteenth ACM Symposium on Operating Systems Principles}
+      \field{isbn}{1-58113-389-8}
+      \field{series}{SOSP '01}
+      \field{title}{Anticipatory Scheduling: A Disk Scheduling Framework to Overcome Deceptive Idleness in Synchronous I/O}
+      \field{year}{2001}
+      \field{pages}{117\bibrangedash 130}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1145/502034.502046
+      \endverb
+    \endentry
+    \entry{FFmpeg:2013}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{note}{Retrieved July, 2013}
+      \field{title}{FFmpeg project webpage}
+      \verb{url}
+      \verb http://www.ffmpeg.org/
+      \endverb
+    \endentry
+    \entry{Wu:2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=6472f1ff94919e413b5652dab7fd889f}{Wu}{W\bibinitperiod}{Ming-Ju}{M\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=30ba223efcadfc6df2eaa6186e032657}{Chen}{C\bibinitperiod}{Yi-Tseng}{Y\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8f9cca23078978d7803089210a63ed4d}{Tsai}{T\bibinitperiod}{Chun-Jen}{C\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{35f51c2a9948ac88ae66c880e8b733c8}
+      \strng{fullhash}{35f51c2a9948ac88ae66c880e8b733c8}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Circuits and Systems, 2009. ISCAS 2009. IEEE International Symposium on}
+      \field{month}{05}
+      \field{title}{Hardware-assisted syntax decoding model for software AVC/H.264 decoders}
+      \field{year}{2009}
+      \field{pages}{1233\bibrangedash 1236}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ISCAS.2009.5117985
+      \endverb
+      \keyw{computational linguistics;decoding;entropy codes;field programmable gate arrays;grammars;video coding;MPEG reconfigurable video coding;Virtex-5 FPGA development board;codec-dependent high-level syntax parser;generic entropy decoding engines;hardware entropy engines;hardware-assisted syntax decoding model;hardware-software system;macroblock data reconstruction modules;software AVC-H.264 decoders;software syntax parser;video codec standards;Acceleration;Automatic voltage control;Code standards;Decoding;Engines;Entropy;Field programmable gate arrays;Hardware;Video codecs;Video coding}
+    \endentry
+    \entry{Wu:2015:ASAP}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=6472f1ff94919e413b5652dab7fd889f}{Wu}{W\bibinitperiod}{Ming-Ju}{M\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4900a71e3eb7b514b3711c743eb8bf37}{Chen}{C\bibinitperiod}{Yan-Ting}{Y\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8f9cca23078978d7803089210a63ed4d}{Tsai}{T\bibinitperiod}{Chun-Jen}{C\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3eea537e27ed762b05561750b57c2bc3}
+      \strng{fullhash}{3eea537e27ed762b05561750b57c2bc3}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Application-specific Systems, Architectures and Processors (ASAP), 2015 IEEE 26th International Conference on}
+      \field{month}{07}
+      \field{title}{Dynamic pipeline-partitioned video decoding on symmetric stream multiprocessors}
+      \field{year}{2015}
+      \field{pages}{106\bibrangedash 110}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ASAP.2015.7245716
+      \endverb
+      \keyw{multiprocessing systems;pipeline processing;queueing theory;resource allocation;video coding;AVC-H.264 video decoder;IPC;MB;SSMP architecture;dynamic pipeline-partitioned video decoding;fine-grained software pipeline fashion;fixed pipeline-stage partitions;interprocessor communication controllers;interstage buffers;load balance;per-core scratchpad memories;processor cores;queue levels;symmetric stream multiprocessors;video macroblock decoding tasks;wavefront-based parallel video decoder;Computer architecture;Decoding;Pipeline processing;Pipelines;Process control;Software;Streaming media;Symmetric stream multiprocessor (SSMP);dynamic load balance;dynamic software pipeline;parallel video decoding}
+    \endentry
+    \entry{Intel:2013}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=ff97a9fdede09eaf6e1c8ec9f6a61dd5}{Intel}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Intel Corporation}%
+      }
+      \strng{namehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{fullhash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Order Number: 325462-048US}
+      \field{title}{Intel 64 and IA-32 architectures software developer's manual}
+      \field{year}{2013}
+    \endentry
+    \entry{Kernel:2014}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aa887807a1d75c537690feb07d2c1ff6}{kernel}{k\bibinitperiod}{Linux}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aa887807a1d75c537690feb07d2c1ff6}
+      \strng{fullhash}{aa887807a1d75c537690feb07d2c1ff6}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.kernel.org/doc/Documentation/trace/ftrace.txt}}
+      \field{note}{Accessed June, 2014}
+      \field{title}{ftrace - Function Tracer}
+      \field{year}{2014}
+    \endentry
+    \entry{wiki:2015:A7}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-December-2015]}
+      \field{title}{Apple A7 --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Apple_A7&oldid=691792243
+      \endverb
+    \endentry
+    \entry{ZedBoard:2014}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.zedboard.org/product/zedboard}}
+      \field{note}{Accessed Jan, 2014}
+      \field{title}{ZedBoard Documentations}
+      \field{year}{2014}
+    \endentry
+    \entry{Xilinx:2014:kernel}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f872201c6db9bf2620dc262ba42d2271}{Xilinx}{X\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{f872201c6db9bf2620dc262ba42d2271}
+      \strng{fullhash}{f872201c6db9bf2620dc262ba42d2271}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/xilinx}}
+      \field{note}{Retrieved Jan, 2014}
+      \field{title}{The official Linux kernel from Xilinx}
+      \field{year}{2014}
+    \endentry
+    \entry{Linaro:2014:v13.11nano}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bbc7ea3303953e7a19a43e1bbdadc0a4}{Linaro}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{bbc7ea3303953e7a19a43e1bbdadc0a4}
+      \strng{fullhash}{bbc7ea3303953e7a19a43e1bbdadc0a4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.linaro.org/downloads/1311}}
+      \field{note}{Retrieved Jan, 2014}
+      \field{title}{Linaro 13.11 nano build}
+      \field{year}{2014}
+    \endentry
+    \entry{Xilinx:2013:Zynq7010}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=f872201c6db9bf2620dc262ba42d2271}{Xilinx}{X\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Xilinx}%
+      }
+      \strng{namehash}{f872201c6db9bf2620dc262ba42d2271}
+      \strng{fullhash}{f872201c6db9bf2620dc262ba42d2271}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{note}{UG585 (v1.6.1)}
+      \field{title}{Zynq-7000 All Programmable SoC Technical Reference Manual}
+      \field{year}{2013}
+    \endentry
+    \entry{Kernel:2013:ARMglobalTimer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aa887807a1d75c537690feb07d2c1ff6}{kernel}{k\bibinitperiod}{Linux}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aa887807a1d75c537690feb07d2c1ff6}
+      \strng{fullhash}{aa887807a1d75c537690feb07d2c1ff6}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.kernel.org/}}
+      \field{note}{git commit: 4fc4df06f242d1738d59af865b2d5021fa76756a}
+      \field{title}{Mainline Linux kernel source code}
+      \field{year}{2013}
+    \endentry
+    \entry{Wright:2005:auto-pilot}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=6ff1d37f1cdd281ee06c36c8b5ef1130}{Wright}{W\bibinitperiod}{Charles\bibnamedelima P.}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=f2862c318c3585afa247d89a85a46648}{Joukov}{J\bibinitperiod}{Nikolai}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=34611cdc89b65ab47ae2e5d6d142e294}{Kulkarni}{K\bibinitperiod}{Devaki}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=df151f42c363263538379f1fcc46cdb3}{Miretskiy}{M\bibinitperiod}{Yevgeniy}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=6c79b4d2fa53538347e4a5f171a1cd36}{Zadok}{Z\bibinitperiod}{Erez}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e1e446fe64657f674b5b3947e301e0ad}
+      \strng{fullhash}{0b4acde439a41cea76502896221573f4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{In Proceedings of the Annual USENIX Technical Conference, FREENIX Track}
+      \field{title}{Auto-pilot: A platform for system software benchmarking}
+      \field{year}{2005}
+    \endentry
+    \entry{Wright:2007:auto-pilot}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=6ff1d37f1cdd281ee06c36c8b5ef1130}{Wright}{W\bibinitperiod}{Charles\bibnamedelima P.}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=6c79b4d2fa53538347e4a5f171a1cd36}{Zadok}{Z\bibinitperiod}{Erez}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0a74cbecdcc1e684ab83000aa84ef3f0}
+      \strng{fullhash}{0a74cbecdcc1e684ab83000aa84ef3f0}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.filesystems.org/project-autopilot.html}}
+      \field{note}{Retrieved Oct., 2014}
+      \field{title}{Auto-pilot benchmarking suite version 2.4}
+      \field{year}{2013}
+    \endentry
+    \entry{Kernel:2013:3.10source}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{note}{Retrieved Dec., 2013}
+      \field{title}{Source code of the Linux kernel version 3.10}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://www.kernel.org/pub/linux/kernel/v3.0/linux-3.10.tar.bz2
+      \endverb
+    \endentry
+    \entry{Libav:2014}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://libav.org/}}
+      \field{note}{Accessed June, 2014}
+      \field{title}{Libav open source audio and video processing tools}
+    \endentry
+    \entry{wiki:LEON}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{Wikipedia}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-December-2015]}
+      \field{title}{LEON --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=LEON&oldid=668172830
+      \endverb
+    \endentry
+    \entry{Wang:2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aed33862b765c4f98be897d6991ad6bc}{Wang}{W\bibinitperiod}{S.Y.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a678af5b83f47c706b1e72162bc4820c}{Chou}{C\bibinitperiod}{C.L.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9c2b6d4c36e01211a72d62d048b9de75}{Lin}{L\bibinitperiod}{C.C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{067501d3e5ff913bb12b084ed8812c1f}
+      \strng{fullhash}{067501d3e5ff913bb12b084ed8812c1f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Simulation Modelling Practice and Theory}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{The design and implementation of the {NCTUns} network simulation engine}
+      \field{volume}{15}
+      \field{year}{2007}
+      \field{pages}{57\bibrangedash 81}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.simpat.2006.09.013
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

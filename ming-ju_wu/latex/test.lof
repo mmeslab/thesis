@@ -1,0 +1,33 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Evaluating storage subsystems in full-system context.}}{2}{figure.caption.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Complete machine simulation.\relax }}{12}{figure.caption.5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Local virtual storage device emulation.\relax }}{14}{figure.caption.6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Remote actual storage device emulation.\relax }}{16}{figure.caption.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces OS state pausing and discrete event simulation.\relax }}{24}{figure.caption.8}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Synchronization between the OS and the simulated storage device.}}{28}{figure.caption.9}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Example operation of CPU idle loop time-skipping.\relax }}{30}{figure.caption.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview of the proposed full-system co-simulator.\relax }}{34}{figure.caption.11}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Scheduling classes in the Linux task scheduling infrastructure.\relax }}{35}{figure.caption.12}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The \textit {clock source} and \textit {clock event} devices.}}{38}{figure.caption.13}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Avoid allocating memory in the storage device simulation path.\relax }}{42}{figure.caption.15}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Interface for integration with third-party disk simulators.\relax }}{43}{figure.caption.16}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Timing error of the simulated storage device.\relax }}{47}{figure.caption.17}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Percent timing error of the simulated storage device.\relax }}{47}{figure.caption.18}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Predicted extraction time.\relax }}{59}{figure.caption.27}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Speedups over the reference disk.\relax }}{60}{figure.caption.28}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Video encoding performance on systems with different CPU speeds.\relax }}{61}{figure.caption.30}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces An overview of the proposed storage device emulator.\relax }}{64}{figure.caption.31}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Interactions between the OS, the emulator kernel, and the emulator server.\relax }}{72}{figure.caption.33}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Disk model simulation time rollback.}}{75}{figure.caption.35}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Detailed operation of the proposed storage device emulator.\relax }}{77}{figure.caption.36}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Sequential read bandwidth.}}{88}{figure.caption.39}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Elapsed time of the postmark workload.}}{89}{figure.caption.42}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Elapsed time of Linux kernel source archive extraction and word count.}}{92}{figure.caption.46}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Elapsed time of MPEG2 video encoding and decoding.}}{97}{figure.caption.50}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Effects of disk model processing time on conventional storage device emulators.}}{99}{figure.caption.52}
+\addvspace {10\p@ }
